@@ -1,0 +1,19 @@
+README
+
+#------------------------------------------------------------------------------
+# Basically a table of contents
+# Ly Phung 
+# lynphung
+# 12B
+# 4/27/19
+# README
+#------------------------------------------------------------------------------
+
+1. README
+2. Makefile
+3. Dictionary.java
+4. DictionaryTest.java
+5. DuplicateKeyException.java
+6. KeyNotFoundException.java
+7. DictionaryInterface.java
+8. DictionaryClient.java

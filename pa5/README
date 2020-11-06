@@ -1,0 +1,17 @@
+README
+
+#------------------------------------------------------------------------------
+# Basically a table of contents
+# Ly Phung 
+# lynphung
+# 12B
+# 5/30/19
+# README
+#------------------------------------------------------------------------------
+
+1. README
+2. Makefile
+3. Dictionary.c
+4. DictionaryTest.c
+5. Dictionary.h
+6. DictionaryClient.c
